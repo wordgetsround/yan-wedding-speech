@@ -1,2 +1,3 @@
-# yan-wedding-speech
-Yan's wedding speech
+# Yan's Wedding Speech
+
+People like Yan because he is polite, and rarely late
