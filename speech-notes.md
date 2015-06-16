@@ -1,3 +1,5 @@
 # Yan's Wedding Speech
 
-People like Yan because he is polite, and rarely late
+People like Yan because he is polite, and rarely late.
+
+Can he commit though?
